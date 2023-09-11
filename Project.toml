@@ -3,6 +3,21 @@ uuid = "0609f6ce-626f-4e91-8922-f5a1b955a37c"
 authors = ["Dario"]
 version = "1.0.0-DEV"
 
+[deps]
+BrowseTables = "5f4fecfd-7eb0-5078-b7f6-ad1f2563c22a"
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+CategoricalArrays = "324d7699-5711-5eae-9e2f-1d82baa6b597"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
+HypothesisTests = "09f84164-cd44-5f33-b23f-e6b0d136a0d5"
+KernelDensity = "5ab0869b-81aa-558d-bb23-cbf5423bbe9b"
+MixedModels = "ff71e718-51f3-5ec2-a782-8ffcbfa3c316"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
+Reexport = "189a3867-3050-52da-a836-e630ba90ab69"
+Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
+StatsBase = "2913bbd2-ae8a-5f71-8c99-4fb6c76f3a91"
+StatsPlots = "f3b207a7-027a-5e70-b257-86293d7955fd"
+
 [compat]
 julia = "1.8"
 
